@@ -1,0 +1,3 @@
+EDA questions:
+
+Breakdown of loans by outcome, grade, etc.
